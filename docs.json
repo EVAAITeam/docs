@@ -86,6 +86,11 @@
           "anchor": "Website",
           "href": "https://eva-ai.cloud",
           "icon": "globe"
+        },
+        {
+          "anchor": "Trade with $EVA",
+          "href": "https://app.uniswap.org/explore/tokens/ethereum/0x3566c8ee9780245e974e759a7716ea6ba0702588",
+          "icon": "ethereum"
         }
       ]
     }
