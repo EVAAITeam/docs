@@ -80,12 +80,12 @@
         {
           "anchor": "Telegram",
           "href": "https://t.me/eva_AI_eth",
-          "icon": "slack"
+          "icon": "telegram"
         },
         {
           "anchor": "Website",
           "href": "https://eva-ai.cloud",
-          "icon": "website"
+          "icon": "globe"
         }
       ]
     }
