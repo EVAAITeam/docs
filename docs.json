@@ -1,10 +1,10 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
+  "theme": "aspen",
+  "name": "EVA AI",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
+    "primary": "#f7941d",
+    "light": "#f7941d",
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
@@ -14,46 +14,48 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Documentation",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "Overview",
+              "Vision",
+              "Roadmap"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Products",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "products/Instinct",
+              "products/Intel",
+              "products/API",
+              "products/Sentinel"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Miscellaneous",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "miscellaneous/Tokenomics",
+              "miscellaneous/Educational Resources",
+              "miscellaneous/Glossary",
+              "miscellaneous/FAQs",
+              "miscellaneous/Links",
+              "miscellaneous/Contracts"
             ]
           }
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "User Manuals",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "Products",
             "pages": [
-              "api-reference/introduction"
+              "products-um/Instict",
+              {
+              "group": "Intel",
+              "pages": ["products-um/New Launches","products-um/Social Updates" ]
+            },
+              "products-um/API",
+              "products-um/Sentinel"
             ]
           },
           {
@@ -89,27 +91,27 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/eva_logo_2.png",
+    "dark": "/eva_logo_2.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:evaaiteam@gmail.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Get $EVA",
+      "href": "https://app.uniswap.org/explore/tokens/ethereum/0x3566c8ee9780245e974e759a7716ea6ba0702588"
     }
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/eva_ai_2024",
+      "telegram": "https://t.me/eva_AI_eth",
+      "website":"https://eva-ai.cloud"
     }
   }
 }
