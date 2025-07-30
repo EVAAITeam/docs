@@ -24,10 +24,10 @@
           {
             "group": "Products",
             "pages": [
-              "products/Instinct",
-              "products/Intel",
-              "products/API",
-              "products/Sentinel"
+              "Instinct",
+              "Intel",
+              "API",
+              "Sentinel"
             ]
           },
           {
